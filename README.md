@@ -18,8 +18,12 @@
 <h5 align="left">Side Projects:</h5>
 <p> 
      <a href="https://www.beddermattress.com/" target="_blank" rel=""> beddermattress </a> <br>
-     <a href="https://www.fibroblastusa.com/" target="_blank" rel=""> fibroblastusa </a>
-     <a href="https://kolonyinc.com/" target="_blank" rel=""> kolonyinc </a>
-     <a href="https://digitalsigns4less.com/" target="_blank" rel=""> digitalsigns4less </a>
+     
+     <a href="https://www.fibroblastusa.com/" target="_blank" rel=""> fibroblastusa </a><br>
+
+     <a href="https://kolonyinc.com/" target="_blank" rel=""> kolonyinc </a><br>
+
+     <a href="https://digitalsigns4less.com/" target="_blank" rel=""> digitalsigns4less </a><br>
+
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irshadali21&show_icons=true&locale=en&layout=compact" alt="irshadali21" /></p>
